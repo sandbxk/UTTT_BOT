@@ -7,5 +7,15 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="de.jensd.fontawesomefx" level="project" />
+    <orderEntry type="library" name="de.jensd.fontawesomefx.commons" level="project" />
+    <orderEntry type="library" name="de.jensd.fontawesomefx.materialdesignfont" level="project" />
+    <orderEntry type="library" name="jfoenix" level="project" />
+    <orderEntry type="library" name="de.jensd.fontawesomefx.controls" level="project" />
+    <orderEntry type="library" name="de.jensd.fontawesomefx.materialicons" level="project" />
+    <orderEntry type="library" name="de.jensd.fontawesomefx.materialicons1" level="project" />
+    <orderEntry type="library" name="de.jensd.fontawesomefx.fontawesome" level="project" />
+    <orderEntry type="library" name="de.jensd.fontawesomefx.icons525" level="project" />
+    <orderEntry type="library" name="de.jensd.fontawesomefx.materialstackicons" level="project" />
   </component>
 </module>
